@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lift1_Level4 : MonoBehaviour
+public class Lift_For_Swtich_Y : MonoBehaviour
 {
 
     Vector3 newposition;
     Vector3 oldPosition;
     public bool moveLift = false;
-    // Start is called before the first frame update
+    public float length = 4f;
     void Start()
     {
-        newposition = new Vector3(transform.position.x, transform.position.y + 4f, transform.position.z);
+        newposition = new Vector3(transform.position.x, transform.position.y + length, transform.position.z);
         oldPosition = transform.position;
         moveLift = false;
     }
