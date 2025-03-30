@@ -8,10 +8,11 @@ public class Lift2 : MonoBehaviour
     Vector3 newposition;
     Vector3 oldPosition;
     public bool moveLift=false;
+    public float length = 3.5f;
     // Start is called before the first frame update
     void Start()
     {
-        newposition = new Vector3(transform.position.x, transform.position.y - 3.5f, transform.position.z);
+        newposition = new Vector3(transform.position.x, transform.position.y - length, transform.position.z);
         oldPosition = transform.position;
         moveLift = false;
     }

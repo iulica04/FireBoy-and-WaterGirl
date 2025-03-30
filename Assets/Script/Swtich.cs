@@ -7,6 +7,7 @@ public class Swtich : MonoBehaviour
     [SerializeField] Lift2 l;
     [SerializeField] Lift1_Level4 l1;
     [SerializeField] Bridge b;
+    [SerializeField] Lift1_ToRight l2;
 
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -16,6 +17,8 @@ public class Swtich : MonoBehaviour
             b.moveLift = true;
         if (l1 != null)
             l1.moveLift = true;
+        if (l2 != null)
+            l2.moveLift = true;
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
@@ -25,5 +28,7 @@ public class Swtich : MonoBehaviour
             b.moveLift = false;
         if (l1 != null)
             l1.moveLift = false;
+        if (l2 != null)
+            l2.moveLift = false;
     }
 }
