@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lift1_Level4 : MonoBehaviour
+public class Up : MonoBehaviour
 {
 
     Vector3 newposition;
@@ -11,7 +11,7 @@ public class Lift1_Level4 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        newposition = new Vector3(transform.position.x + 2f, transform.position.y , transform.position.z);
+        newposition = new Vector3(transform.position.x , transform.position.y+2f, transform.position.z);
         oldPosition = transform.position;
         moveLift = false;
     }

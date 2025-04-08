@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lift2_Level4 : MonoBehaviour
+public class ddown : MonoBehaviour
 {
     [SerializeField] Lever s;
     Vector3 newPosition;
@@ -10,9 +10,9 @@ public class Lift2_Level4 : MonoBehaviour
 
     void Start()
     {
-        newPosition = new Vector3(transform.position.x+2f , transform.position.y, transform.position.z); // Se deplasează la dreapta
+        newPosition = new Vector3(transform.position.x , transform.position.y+ 3f, transform.position.z); // 
         oldPosition = transform.position;
-        
+
     }
 
     void Update()
