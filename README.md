@@ -13,7 +13,7 @@
 
 - Cooperative Gameplay: Designed for solo play or multiplayer where players control each character.
 
-##Technologies Used
+## Technologies Used
 - Unity 3D for game development
 
 - C# scripting for logic and mechanics
