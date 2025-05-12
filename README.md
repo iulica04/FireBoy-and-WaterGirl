@@ -1,4 +1,4 @@
-#Fireboy and Watergirl Game in Unity 🔥💧
+# Fireboy and Watergirl Game in Unity 🔥💧
 
 "Fireboy and Watergirl" is a cooperative puzzle-platformer game where players control two characters, Fireboy and Watergirl, each with unique abilities, to solve puzzles and navigate through various levels. The game involves switching between the two characters, each having their own set of interactions with environmental elements.
 
