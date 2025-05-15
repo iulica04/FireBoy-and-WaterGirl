@@ -134,6 +134,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -4026,6 +4041,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -4486,6 +4516,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -4554,6 +4599,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedGem (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
@@ -9926,6 +9986,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -10164,6 +10239,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedGem (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
@@ -10437,6 +10527,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedGem (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
@@ -10835,6 +10940,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -11186,6 +11306,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -11255,6 +11390,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedGem (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
       propertyPath: m_RootOrder
@@ -11323,6 +11473,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedGem (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634796443597911913, guid: d8574def5bdaadf40bd232865376cce6,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5634796443597911918, guid: d8574def5bdaadf40bd232865376cce6,
         type: 3}
